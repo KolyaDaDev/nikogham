@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Gatsby JS
-- 🌱 I’m currently learning ThreeJs and more Gatsby stuff 
-- 🤔 I’m looking for help with blockchain
+- 🔭 I’m currently working on a couple of sites built with GatsbyJS 
+- 🌱 I’m currently learning ThreeJs and more Gatsby stuff
 - 📫 How to reach me: @nikogham.dev on insta
 
